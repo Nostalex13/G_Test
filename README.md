@@ -3,6 +3,6 @@
 
 <img src="Gameplay1.gif" height="400" />
 
-**2.Build as high as you can**
+**2.Build as high as you can (speed-up)**
 
 <img src="Gameplay2.gif" height="400" />
