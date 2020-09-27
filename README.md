@@ -1,4 +1,4 @@
 # G_Test
 **1.Level start**
 
-![](Gameplay1.gif)
+<img src="Gameplay1.gif" height="300" />
