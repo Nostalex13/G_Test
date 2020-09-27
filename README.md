@@ -8,4 +8,4 @@
 <img src="Gameplay2.gif" height="400" />
 
 **3.Last builded tower is shown in Main Menu**
-</n>**4.High score is saved**
+</p>**4.High score is saved**
